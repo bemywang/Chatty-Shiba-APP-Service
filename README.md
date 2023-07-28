@@ -3,6 +3,8 @@
 Welcome to the Chatty Shiba app! 🐾
 
 Have a laugh with our adorable AI-powered Shiba character, engage in fun conversations, and bond with your new furry friend.
+<img src="https://bemywang.github.io/Chatty-Shiba-APP-Service/14_pro_max6.png" alt="Chatty Shiba App Screenshot" style="max-width: 300px;">
+
 
 ![Chatty Shiba App Screenshot](https://bemywang.github.io/Chatty-Shiba-APP-Service/14_pro_max6.png)
 
