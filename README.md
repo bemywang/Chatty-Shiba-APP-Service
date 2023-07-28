@@ -1,12 +1,10 @@
 # Chatty Shiba App
 
 Welcome to the Chatty Shiba app! 🐾
+Available on App Store now: [HERE](https://apps.apple.com/app/chatty-shiba/id6452629724)
 
 Have a laugh with our adorable AI-powered Shiba character, engage in fun conversations, and bond with your new furry friend.
 <img src="https://bemywang.github.io/Chatty-Shiba-APP-Service/14_pro_max6.png" alt="Chatty Shiba App Screenshot" style="width: 215px; height: 466px;">
-
-
-![Chatty Shiba App Screenshot](https://bemywang.github.io/Chatty-Shiba-APP-Service/14_pro_max6.png)
 
 ## Download
 
