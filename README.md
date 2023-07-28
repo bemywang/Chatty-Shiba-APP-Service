@@ -15,7 +15,7 @@ Download and experience the joy of interacting with Chatty Shiba!
 Available on App Store now: [HERE](https://apps.apple.com/app/chatty-shiba/id6452629724)
 
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/50/53/c450535c-efff-30f0-9b94-d666cfb722b5/AppIcon-0-1x_U007epad-85-220.png/460x0w.webp)" alt="Chatty Shiba App Screenshot" style="width: 300px; height: 300px;">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/50/53/c450535c-efff-30f0-9b94-d666cfb722b5/AppIcon-0-1x_U007epad-85-220.png/460x0w.webp" alt="Chatty Shiba App Screenshot" style="width: 300px; height: 300px;">
 
 
 ## Terms and Privacy Policy
