@@ -12,13 +12,13 @@ Download now and experience the joy of interacting with Chatty Shiba!
 
 ## Terms and Privacy Policy
 
-Please check out our [Terms of Service]([link_to_terms](https://bemywang.github.io/Chatty-Shiba-APP-Service/terms-of-service.html)) and [Privacy Policy]([link_to_privacy_policy](https://bemywang.github.io/Chatty-Shiba-APP-Service/privacy-policy.html)) 
+Please check out our [Terms of Service](https://bemywang.github.io/Chatty-Shiba-APP-Service/terms-of-service.html) and [Privacy Policy](https://bemywang.github.io/Chatty-Shiba-APP-Service/privacy-policy.html) 
 
 ## Contact
 
 If you have any questions, feedback, or feature enhancement requests, feel free to reach out to us:
 
-- Contact us through [Google Form]([link_to_google_form](https://docs.google.com/forms/d/e/1FAIpQLSeA99Irb8d5fexYXOPmEhjp0vnSYeSk6baCWWELMRwO4D4P2Q/viewform))
+- Contact us through [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeA99Irb8d5fexYXOPmEhjp0vnSYeSk6baCWWELMRwO4D4P2Q/viewform)
 
 ## FAQ
 
